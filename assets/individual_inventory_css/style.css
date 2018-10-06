@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; }
+body { font: 11px/1.4 Georgia, serif; }
+
+table, td, th {
+    border: 0px solid #000;
+    border-spacing: 0;
+    line-height: .3in;
+    page-break-inside: auto;
+
+}
+
+
+
+#wrapper {width: :11.67in; height: auto;margin: 0 0; padding: .4in .5in; }

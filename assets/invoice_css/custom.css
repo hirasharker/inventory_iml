@@ -1,0 +1,34 @@
+* { margin: 0; padding: 0; }
+body { font: 11px/1.4 Georgia, serif; }
+
+#wrapper {width: :8.26in; margin: 0 0; padding: .7in .5in; }
+#wrapper h2 { text-align: center; width: 100%;}
+#header .left {float: left; width: 70%;}
+
+#header .right {float: right; width: 30%;}
+#header .right table {float: left;}
+#header .right table td { text-align: right;}
+
+#content { margin-top:.4in;}
+
+#content table {text-align: left; padding-left: 5px; border-collapse: collapse;}
+#content table th {border: 1px solid #000; background-color: #dcdcdc;}
+#content table td {border: 1px solid #eeeeee; height: .2in; }
+
+#content table th:nth-child(1){width: 6.88%;}
+#content table th:nth-child(2){width: 32%; text-align: left;}
+#content table th:nth-child(3){width: 15%; text-align: right;}
+#content table th:nth-child(4){width: 11.9%; text-align: right;}
+#content table th:nth-child(5){width: 6.8%; text-align: center;}
+#content table th:nth-child(6){width: 9.6%; text-align: right;}
+#content table th:nth-child(7){width: 17.8%; text-align: right;}
+
+#content table td:nth-child(1){width: 6.88%; text-align: center;}
+#content table td:nth-child(2){width: 32%; text-align: left;}
+#content table td:nth-child(3){width: 15%; text-align: right;}
+#content table td:nth-child(4){width: 11.9%; text-align: right;}
+#content table td:nth-child(5){width: 6.8%; text-align: center;}
+#content table td:nth-child(6){width: 9.6%; text-align: right;}
+#content table td:nth-child(7){width: 17.8%; text-align: right;}
+
+#content table tr:nth-child(even){background-color: #f2f2f2}
